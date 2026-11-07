@@ -30,7 +30,9 @@ O projeto está em construção. A proposta é criar um catálogo público, veri
 
 Sugestões de fontes, correções e propostas de organização são bem-vindas. Abra uma [issue](https://github.com/mastersilvio/brasilia/issues) com o nome da iniciativa, um link para a fonte e uma breve explicação da relevância para IA ou soberania de dados no Brasil. Para alterações no conteúdo, envie um pull request com as referências usadas.
 
-Este catálogo ainda não contém uma lista de iniciativas. As primeiras contribuições ajudarão a definir sua estrutura.
+## Mapa inicial do ecossistema
+
+O [catálogo de IA no Brasil](CATALOGO.md) reúne uma primeira seleção de políticas, polos, projetos, dados, modelos, organizações, pesquisadores e infraestrutura. As entradas indicam o estágio conhecido e apontam para fontes originais. **Última revisão: 7 de novembro de 2026.** A lista é seletiva e aberta a contribuições.
 
 ## Licença
 
