@@ -1,14 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">BRASILIA — Brasil mais IA</title>
-  <desc id="desc">Logo em fundo azul escuro com a palavra BRASILIA; BRASIL em branco e IA em verde e amarelo.</desc>
+  <desc id="desc">Logo em fundo azul escuro com a palavra BRASILIA; BRA em verde, SIL em amarelo e IA em azul.</desc>
   <defs>
     <linearGradient id="background" x2="1" y2="1">
       <stop offset="0" stop-color="#071b35"/>
       <stop offset="1" stop-color="#12375a"/>
-    </linearGradient>
-    <linearGradient id="ia" x2="1" y2="0">
-      <stop offset="0" stop-color="#39d98a"/>
-      <stop offset="1" stop-color="#f8d34f"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
@@ -20,8 +16,7 @@
   <circle cx="1072" cy="89" r="6" fill="#f8d34f"/>
   <circle cx="1097" cy="89" r="6" fill="#42d99a"/>
   <circle cx="1122" cy="89" r="6" fill="#f8d34f"/>
-  <text x="80" y="223" fill="#f6fbff" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="800" letter-spacing="-8">BRASIL</text>
-  <text x="650" y="223" fill="url(#ia)" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="800" letter-spacing="-8">IA</text>
-  <path d="M84 255h711" stroke="url(#ia)" stroke-width="7" stroke-linecap="round"/>
+  <text x="80" y="223" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="800" letter-spacing="-8"><tspan fill="#42d99a">BRA</tspan><tspan fill="#f8d34f">SIL</tspan><tspan fill="#55aaff">IA</tspan></text>
+  <path d="M84 255h711" stroke="#55aaff" stroke-width="7" stroke-linecap="round"/>
   <text x="86" y="304" fill="#bdcfe0" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" letter-spacing="4">INTELIGÊNCIA ARTIFICIAL · SOBERANIA DE DADOS</text>
 </svg>
